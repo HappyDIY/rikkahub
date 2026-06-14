@@ -1213,5 +1213,30 @@ mDNS 地址：使用 .local 主机名，同一网络中的其他设备可通过�
   <string name="tool_ui_replay">重播</string>
   <string name="tool_ui_delete_memory">删除记忆</string>
   <string name="tool_ui_file">文件</string>
+  <string name="codex_provider_description">使用 OpenAI Codex OAuth 和 Responses API。此集成依赖 Codex 服务兼容性。</string>
+  <string name="codex_sign_in">使用 OpenAI OAuth 登录</string>
+  <string name="codex_enable">启用 Codex</string>
+  <string name="codex_round_robin_description">以轮询方式使用已启用的账号。</string>
+  <string name="codex_sign_in_required">请先登录至少一个可用账号。</string>
+  <string name="codex_accounts_count">账号（%1$d）</string>
+  <string name="codex_check_status">检查状态</string>
+  <string name="codex_no_accounts">尚未登录 Codex 账号。</string>
+  <string name="codex_oauth_success">OpenAI OAuth 登录完成</string>
+  <string name="codex_refresh_failed">刷新账号失败</string>
+  <string name="codex_remove_account_title">移除 Codex 账号？</string>
+  <string name="codex_remove_account_message">若要再次使用此账号，需要重新登录。</string>
+  <string name="codex_remove">移除</string>
+  <string name="codex_token_available">令牌可用</string>
+  <string name="codex_token_expired">令牌已过期</string>
+  <string name="codex_token_unavailable">令牌不可用</string>
+  <string name="codex_token_not_checked">尚未检查令牌状态</string>
+  <string name="codex_five_hour_limit">5 小时限额</string>
+  <string name="codex_weekly_limit">每周限额</string>
+  <string name="codex_minute_limit">%1$d 分钟限额</string>
+  <string name="codex_percent_remaining">剩余 %1$d%%</string>
+  <string name="codex_resets_at">重置时间：%1$s</string>
+  <string name="codex_refresh">刷新</string>
+  <string name="codex_reauthenticate">重新认证</string>
+  <string name="codex_reasoning_auto_unsupported">Codex 不支持自动思考强度。请选择低、中、高或超高。</string>
+  <string name="codex_response_failed">Codex 响应失败。</string>
 </resources>
-

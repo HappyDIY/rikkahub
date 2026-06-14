@@ -1213,5 +1213,30 @@ mDNS 주소: .local 호스트네임을 사용하며, IP를 몰라도 같은 네�
   <string name="tool_ui_replay">재생</string>
   <string name="tool_ui_delete_memory">메모리 삭제</string>
   <string name="tool_ui_file">파일</string>
+  <string name="codex_provider_description">OpenAI Codex OAuth 및 Responses API를 사용합니다. 이 통합은 Codex 서비스 호환성에 따라 달라집니다.</string>
+  <string name="codex_sign_in">OpenAI OAuth로 로그인</string>
+  <string name="codex_enable">Codex 사용</string>
+  <string name="codex_round_robin_description">활성화된 계정을 라운드 로빈 방식으로 사용합니다.</string>
+  <string name="codex_sign_in_required">사용 가능한 계정에 하나 이상 로그인하세요.</string>
+  <string name="codex_accounts_count">계정 (%1$d)</string>
+  <string name="codex_check_status">상태 확인</string>
+  <string name="codex_no_accounts">로그인된 Codex 계정이 없습니다.</string>
+  <string name="codex_oauth_success">OpenAI OAuth 로그인이 완료되었습니다</string>
+  <string name="codex_refresh_failed">계정을 새로 고치지 못했습니다</string>
+  <string name="codex_remove_account_title">Codex 계정을 삭제할까요?</string>
+  <string name="codex_remove_account_message">이 계정을 다시 사용하려면 다시 로그인해야 합니다.</string>
+  <string name="codex_remove">삭제</string>
+  <string name="codex_token_available">토큰 사용 가능</string>
+  <string name="codex_token_expired">토큰 만료됨</string>
+  <string name="codex_token_unavailable">토큰 사용 불가</string>
+  <string name="codex_token_not_checked">토큰 상태를 확인하지 않음</string>
+  <string name="codex_five_hour_limit">5시간 한도</string>
+  <string name="codex_weekly_limit">주간 한도</string>
+  <string name="codex_minute_limit">%1$d분 한도</string>
+  <string name="codex_percent_remaining">%1$d%% 남음</string>
+  <string name="codex_resets_at">초기화: %1$s</string>
+  <string name="codex_refresh">새로 고침</string>
+  <string name="codex_reauthenticate">재인증</string>
+  <string name="codex_reasoning_auto_unsupported">Codex는 자동 사고 강도를 지원하지 않습니다. 낮음, 중간, 높음 또는 매우 높음을 선택하세요.</string>
+  <string name="codex_response_failed">Codex 응답에 실패했습니다.</string>
 </resources>
-
